@@ -1,0 +1,6 @@
+Pengertian dari :
+Git add		: adalah perintah untuk menambahkan file apapun pada direktori yang sudah anda tentukan ke dalam repo git.
+Git commit -m	:  adalah perintah untuk menambahkan semua file ke repo, mengedit dan menambahkan pesan ke repo git.
+Git push		: adalah memperbarui ref terpencil bersama dengan objek terkait
+Git diff		: adalah perintah menunjukkan kepada pengguna dengan tepat baris yang ditambahkan dan dibuang - dalam bentuk patch-nya.
+Git reset --head	: 
